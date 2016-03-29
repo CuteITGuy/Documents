@@ -1,0 +1,1 @@
+Add CB.Web.WebServices DataQueryService
