@@ -1,1 +1,1 @@
-AppFile map to stored with less parameters
+AppFile map to stored procedure with less parameters
