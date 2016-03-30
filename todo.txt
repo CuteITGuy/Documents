@@ -1,1 +1,1 @@
-Add CB.Web.WebServices DataQueryService
+AppFile map to stored with less parameters
